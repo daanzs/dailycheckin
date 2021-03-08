@@ -160,10 +160,10 @@ def push_message(content_list: list, notice_info: dict):
             try:
                 message2coolpush(
                     coolpushskey=coolpushskey,
-                    content=content,
                     coolpushqq=coolpushqq,
                     coolpushwx=coolpushwx,
                     coolpushemail=coolpushemail,
+                    content=content,
                 )
             except Exception as e:
                 print("coolpush 推送失败", e)
