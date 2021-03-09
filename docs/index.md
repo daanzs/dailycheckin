@@ -48,17 +48,19 @@
 ## 支持的通知列表
 
 - dingtalk（钉钉）
-- server 酱（微信）
-- qmsg 酱（QQ）
-- telegram（TG）
-- Cool Push（QQ,微信,邮箱）
-- Bark（iOS）
-- server 酱 TURBO（微信）
 - 企业微信群机器人（企业微信）
 - 企业微信应用消息（企业微信）
+- telegram（TG）
+- Bark（iOS）
+- server 酱（微信）
+- server 酱 TURBO（微信）
+- pushplus（微信）
+- Cool Push（QQ,微信,邮箱）
+- qmsg 酱（QQ）
 
 ## 交流群
 
 <p align="center">
-    <img width="282" height="365.25" src="https://cdn.jsdelivr.net/gh/Sitoi/dailycheckin/docs/img/wechat_group.jpg" alt="微信交流群"/>
+    <img width="282" height="282" src="https://cdn.jsdelivr.net/gh/Sitoi/dailycheckin/docs/img/wechat.jpg" alt="进群加微信，备注签到"/>
+    <br>进群加微信，备注: 签到
 </p>
